@@ -1,6 +1,7 @@
 # Site settings
 title: Feelingstack's blog
-description: Personal conclusion
+# description: Personal conclusion
+description: Bookmark this to keep an eye on my project updates!
 baseurl: "http://feelingstack.github.io" # the subpath of your site, e.g. /blog
 url: "http://feelingstack.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
