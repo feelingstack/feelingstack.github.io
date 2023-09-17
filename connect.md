@@ -5,5 +5,5 @@ permalink: /connect/
 ---
 联系
 <p>
-  email:
+  email:ganhaomin@hotmail.com
 </p>
