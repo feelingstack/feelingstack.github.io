@@ -3,7 +3,7 @@ layout: page
 title: connect
 permalink: /connect/
 ---
-联系
+Connect me
 <p>
   email:ganhaomin@hotmail.com
 </p>
