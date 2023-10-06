@@ -137,5 +137,5 @@ permalink: /privacy/
 <h2>Contact Us</h2>
 <p>If you have any questions about this Privacy Policy, You can contact us:</p>
 <ul>
-<li>By visiting this page on our website: <a href="https://feelingstack.github.io/about/" rel="external nofollow noopener" target="_blank">https://feelingstack.github.io/about/</a></li>
+<li>By visiting this page on our website: <a href="https://feelingstack.github.io/connect/" rel="external nofollow noopener" target="_blank">https://feelingstack.github.io/about/</a></li>
 </ul>
